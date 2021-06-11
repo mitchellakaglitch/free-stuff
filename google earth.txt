@@ -1,0 +1,8 @@
+<!DOCTYPE html><html><head><link rel="icon" href="https://www.gstatic.com/earth/00-favicon.ico"></head><body style="background-color:#000"><script>'use strict';var goog=goog||{};/*
+
+Copyright The Closure Library Authors.
+SPDX-License-Identifier: Apache-2.0
+*/
+var c=function(h,k){this.a=h===a&&k||"";this.b=b};c.prototype.f=!0;c.prototype.c=function(){return this.a.toString()};var d=/^(?:(?:https?|mailto|ftp):|[^:/?#]*(?:[/?#]|$))/i,b={},a={};var e=window.location,f=((new RegExp("^[_\\-\\/A-Za-z0-9]*(current|"+"9.3.101.1".replace(".","\\.").replace("-","\\-")+")\\/(index[_\\-A-Za-z0-9v]*\\.html)?")).test(window.location.pathname)?"app_min.html":"9.3.101.1/app_min.html")+window.location.search+window.location.hash,g,l;if(f instanceof c)l=f;else{var m=f;m instanceof c?l=m:(m="object"==typeof m&&m.f?m.c():String(m),d.test(m)||(m="about:invalid#zClosurez"),l=new c(a,m))}g=l;
+e.replace(g instanceof c&&g.constructor===c&&g.b===b?g.a:"type_error:SafeUrl");
+</script></body></html></title/@bing earth/>
